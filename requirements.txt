@@ -21,3 +21,4 @@ cn2an
 wave
 pyaudio
 webrtcvad
+python-vxi11
